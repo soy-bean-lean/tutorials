@@ -49,7 +49,7 @@
     </build>
 
     <properties>
-        <unboundid.ldapsdk.version>4.0.4</unboundid.ldapsdk.version>
+        <unboundid.ldapsdk.version>4.0.5</unboundid.ldapsdk.version>
     </properties>
 
 </project>
