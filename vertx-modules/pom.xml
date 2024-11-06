@@ -31,7 +31,7 @@
     </build>
 
     <properties>
-        <vertx.version>3.9.15</vertx.version>
+        <vertx.version>4.4.6</vertx.version>
     </properties>
 
 </project>
