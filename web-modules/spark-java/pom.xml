@@ -28,7 +28,7 @@
     </dependencies>
 
     <properties>
-        <sparkjava.spark-core.version>2.5.4</sparkjava.spark-core.version>
+        <sparkjava.spark-core.version>2.9.4</sparkjava.spark-core.version>
         <gson.version>2.10.1</gson.version>
     </properties>
 
