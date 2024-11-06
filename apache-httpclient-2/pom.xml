@@ -80,7 +80,7 @@
     <properties>
         <mockserver.version>5.11.2</mockserver.version>
         <httpclient5.version>5.2.1</httpclient5.version>
-        <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.0.RELEASE</spring-boot.version>
     </properties>
 
 </project>
